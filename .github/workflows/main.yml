@@ -2,7 +2,7 @@ name: Run test and build images
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
